@@ -570,6 +570,7 @@ p {
 }
 .image-carousel img {
   max-width: 100%;
+  padding: 20px 20px 20px 20px;
 }
 .image-carousel p {
   margin-bottom: 20px;
